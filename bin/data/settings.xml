@@ -1,0 +1,13 @@
+<group>
+	<Max_Particles>203</Max_Particles>
+	<Life_Range>99.4898, 500</Life_Range>
+	<Direction>10.9</Direction>
+	<Direction_prob>5.10204, 12.2449</Direction_prob>
+<group/>
+	<Direction_Random>123.93</Direction_Random>
+	<Direction_Prob>7.14286, 79.0816</Direction_Prob>
+	<Direction_Mult>0.433674, 1.88776</Direction_Mult>
+<Alive>203</Alive>
+<Color_Start>0, 92, 217, 255</Color_Start>
+	<Color_End>215, 27, 76, 255</Color_End>
+</group>
